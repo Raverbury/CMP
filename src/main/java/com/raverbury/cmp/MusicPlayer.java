@@ -201,7 +201,7 @@ public class MusicPlayer extends JFrame {
 		String content = null;
 		try {
 			String filePath = dirPath + "metadata.json";
-    	File file = new File(filePath); // For example, foo.txt
+    	File file = new File(filePath);
     	FileReader reader = new FileReader(filePath);
 			char[] chars = new char[(int) file.length()];
 			reader.read(chars);

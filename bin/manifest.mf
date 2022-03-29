@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.raverbury.cmp.CustomMusicPlayer
+Class-Path: lib\json.jar
+Sealed: true

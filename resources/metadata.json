@@ -1,0 +1,145 @@
+[
+	{
+		"filename": "gfl_pl_map_1.wav",
+		"trackname": "Polarized Light Map 1",
+		"flavors": [
+			{
+				"flavorName": "Default",
+				"loopStartPos": "7579000",
+				"loopEndPos": "108632000"
+			}
+		]
+	},
+	{
+		"filename": "gfl_sc_lobby.wav",
+		"trackname": "Shattered Connexion Intermission",
+		"flavors": [
+			{
+				"flavorName": "Default",
+				"loopStartPos": "85711000",
+				"loopEndPos": "113141000"
+			}
+		]
+	},
+	{
+		"filename": "gfl_ms_lobby.wav",
+		"trackname": "Mirror Stage Pathfinder",
+		"flavors": [
+			{
+				"flavorName": "Default",
+				"loopStartPos": "10916000",
+				"loopEndPos": "98188000"
+			}
+		]
+	},
+	{
+		"filename": "gfl_sg_lobby.wav",
+		"trackname": "Singularity Intermission",
+		"flavors": [
+			{
+				"flavorName": "Default",
+				"loopStartPos": "1437000",
+				"loopEndPos": "86770000"
+			}
+		]
+	},
+	{
+		"filename": "gfl_ct_lobby.wav",
+		"trackname": "Continuum Turbulence Intermission",
+		"flavors": [
+			{
+				"flavorName": "Default",
+				"loopStartPos": "9201000",
+				"loopEndPos": "110253000"
+			}
+		]
+	},
+	{
+		"filename": "gfl_chap_12.wav",
+		"trackname": "Chapter 12",
+		"flavors": [
+			{
+				"flavorName": "Default",
+				"loopStartPos": "384000",
+				"loopEndPos": "120395000"
+			}
+		]
+	},
+	{
+		"filename": "gfl_ms_betray.wav",
+		"trackname": "Mirror Stage Betrayal",
+		"flavors": [
+			{
+				"flavorName": "Default",
+				"loopStartPos": "4235000",
+				"loopEndPos": "94589000"
+			}
+		]
+	},
+	{
+		"filename": "gfl_sc_mainenemy_h.wav",
+		"trackname": "Shattered Connexion Main Enemy Hard",
+		"flavors": [
+			{
+				"flavorName": "Default",
+				"loopStartPos": "4477000",
+				"loopEndPos": "119104000"
+			},
+			{
+				"flavorName": "But it never starts",
+				"loopStartPos": "913000",
+				"loopEndPos": "15245000"
+			}
+		]
+	},
+	{
+		"filename": "th6_15.wav",
+		"trackname": "U.N. Owen Was Her?",
+		"flavors": [
+			{
+				"flavorName": "Default",
+				"loopStartPos": "2506000",
+				"loopEndPos": "124504000"
+			},
+			{
+				"flavorName": "But 495% better",
+				"loopStartPos": "30375000",
+				"loopEndPos": "55147000"
+			}
+		]
+	},
+	{
+		"filename": "th8_10.wav",
+		"trackname": "Love-colored Master Spark",
+		"flavors": [
+			{
+				"flavorName": "Default",
+				"loopStartPos": "199000",
+				"loopEndPos": "116654000"
+			}
+		]
+	},
+	{
+		"filename": "th8_18.wav",
+		"trackname": "Reach for the Moon, Immortal Smoke",
+		"flavors": [
+			{
+				"flavorName": "Default",
+				"loopStartPos": "2942000",
+				"loopEndPos": "172168000"
+			}
+		]
+	},
+	{
+		"filename": "th8_13_5.wav",
+		"trackname": "Voyage 1969.5",
+		"flavors": [
+			{
+				"flavorName": "Default",
+				"loopStartPos": "77110000",
+				"loopEndPos": "88951000",
+				"comment": "69 and 70 switch at 35.634"
+			}
+		]
+	}
+]

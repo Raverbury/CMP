@@ -4,7 +4,7 @@ Custom Music Player, mainly for seamlessly playing looped soundtracks
 # Installation
 * Requires JRE
 ## Windows
-* Clone or download this repo to your machine, run the build script
+* Clone or download this repo to your machine, run the build script (make_jar.bat)
 * Run the newly created .jar file
 
 # Features

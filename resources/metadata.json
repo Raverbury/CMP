@@ -109,28 +109,6 @@
 		]
 	},
 	{
-		"filename": "th8_10.wav",
-		"trackname": "Love-colored Master Spark",
-		"flavors": [
-			{
-				"flavorName": "Default",
-				"loopStartPos": "199000",
-				"loopEndPos": "116654000"
-			}
-		]
-	},
-	{
-		"filename": "th8_18.wav",
-		"trackname": "Reach for the Moon, Immortal Smoke",
-		"flavors": [
-			{
-				"flavorName": "Default",
-				"loopStartPos": "2942000",
-				"loopEndPos": "172168000"
-			}
-		]
-	},
-	{
 		"filename": "th8_13_5.wav",
 		"trackname": "Voyage 1969.5",
 		"flavors": [

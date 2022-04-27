@@ -23,4 +23,5 @@ Or this [Crab Rave But The Beat Never Drops](https://www.youtube.com/watch?v=bTZ
 Or just normal game soundtrack looping seamlessly without any awkward fade/silence inbetween?
 
 Yeah your average Windows Media Player or VLC can't do something like that, but CMP was built with those purposes in mind
+
 Then just use Youtube you say? Nice try but only the content of the video is looped properly because that's the intention of the uploader, Youtube itself can't seamlessly loop its own videos. And you are using internet data to do that

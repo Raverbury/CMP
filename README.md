@@ -2,7 +2,7 @@
 Custom Music Player, mainly for seamlessly playing looped soundtracks
 
 # Installation
-* Requires JRE
+* Requires Java 16 (versions after Java 8 may work, but 16 is recommended)
 ## Windows
 * Clone or download this repo to your machine, run the build script (make_jar.bat)
 * Run the newly created .jar file
